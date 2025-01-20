@@ -1,0 +1,3 @@
+/Users/emmanuelkufre/CLionProjects/cylinder/cmake-build-debug/CMakeFiles/cylinder.dir
+/Users/emmanuelkufre/CLionProjects/cylinder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emmanuelkufre/CLionProjects/cylinder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
